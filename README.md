@@ -1,7 +1,7 @@
 # Bem vindo(a) ao meu Perfil!
 
 Olá, me chamo Luiz Fernando!
-Tenho 30 anos, possuo 9 anos de expêriencia na área de Suprimentos(Compras) e Comércio Exterior. 
+Tenho 30 anos, sou de SP capital, possuo 9 anos de expêriencia na área de Suprimentos(Compras) e Comércio Exterior. 
 Estou em preparação para uma transição de carreira na área de tecnologia como desenvolvedor.
 
 ## Meus Hobbies
