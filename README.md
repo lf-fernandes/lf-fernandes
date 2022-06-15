@@ -1,6 +1,8 @@
 # Bem vindo(a) ao meu Perfil!
 
 Olá, me chamo Luiz Fernando!
+Tenho 30 anos, possuo 9 anos de expêriencia na área de Suprimentos(Compras) e Comércio Exterior. 
+Estou em preparação para uma transição de carreira na área de tecnologia como desenvolvedor.
 
 ## Meus Hobbies
 
@@ -11,7 +13,7 @@ Olá, me chamo Luiz Fernando!
 
 ## Atualmente estudando
 
-Estou em transação de carreira, voltando para área de tecnologia. Atualmente estou aprendendo o básico de lógica da programação com C++, HTML, CSS, Javascript.
+Atualmente estou me dedicando ao básico de lógica da programação com C++, HTML, CSS, Javascript.
 Procuro me aprofundar nas linguagens de Java e Python, tenho grande interesse em atuar na área de Big data, machine learning, deep learning, etc.
 
 ## Meus Contatos
