@@ -13,8 +13,8 @@ Estou em preparação para uma transição de carreira na área de tecnologia co
 
 ## Atualmente estudando
 
-Atualmente estou me dedicando ao básico de lógica da programação com C++, HTML, CSS, Javascript.
-Procuro me aprofundar nas linguagens de Java e Python, tenho grande interesse em atuar na área de Big data, machine learning, deep learning, etc.
+Atualmente estou me dedicando em me aprofundar em programação Python para automações e análise de dados. Tenho grande interesse em atuar na área de DataScience, MAchine Learning, Deep Learning.
+
 
 ## Meus Contatos
 
