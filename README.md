@@ -2,7 +2,7 @@
 
 Olá, me chamo Luiz Fernando!
 Tenho 30 anos, sou de SP capital, possuo 9 anos de expêriencia na área de Suprimentos(Compras) e Comércio Exterior. 
-Estou em preparação para uma transição de carreira na área de tecnologia como desenvolvedor.
+Estou em preparação para uma transição de carreira na área de tecnologia.
 
 ## Meus Hobbies
 
@@ -13,8 +13,8 @@ Estou em preparação para uma transição de carreira na área de tecnologia co
 
 ## Atualmente estudando
 
-Atualmente estou me dedicando ao básico de lógica da programação com C++, HTML, CSS, Javascript.
-Procuro me aprofundar nas linguagens de Java e Python, tenho grande interesse em atuar na área de Big data, machine learning, deep learning, etc.
+Atualmente estou me dedicando em me aprofundar em programação Python para automações e análise de dados. Tenho grande interesse em atuar na área de DataScience, MAchine Learning, Deep Learning.
+
 
 ## Meus Contatos
 
